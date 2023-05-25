@@ -1,0 +1,2 @@
+hcsr04:motor:offboard_node:talkersrv
+-DCATKIN_DEVEL_PREFIX=/home/orangepi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/orangepi/catkin_ws/install -G Unix Makefiles

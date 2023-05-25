@@ -1,0 +1,8 @@
+prefix=/home/orangepi/catkin_ws/install
+
+Name: hcsr04
+Description: Description of hcsr04
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs image_transport mavros roscpp rospy sensor_msgs serial std_msgs message_runtime
